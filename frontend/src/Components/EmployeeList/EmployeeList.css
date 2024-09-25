@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;  
+  }
+  
+  .min-h-screen {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: #FCEDF2 ;
+  }
+  
+
+  th, td {
+    border-color: #96D4D4;
+  }
+
+  
+  .bg-gray-100 {
+    background-color: #FCEDF2;
+  }
+  
+  .bg-white {
+    background-color: #60fa13;
+  }
+  
+  .p-6 {
+    padding: 1.5rem;
+  }
+  
+  .rounded-lg {
+    border-radius: 0.5rem;
+  }
+  
+  .shadow-lg {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  }
+  
+  .text-xl {
+    text-align: center;
+    font-size: 1.25rem;
+  }
+  
+  .font-bold {
+    font-weight: bold;
+  }
+  
+  .text-gray-600 {
+    color: #4a5568;
+  }
+  
+  .mb-4 {
+    margin-bottom: 1rem;
+  }
+  
+  .w-full {
+    text-align: center;
+    width: 100%;
+  }
+  
+  .px-3 {
+    padding-left: 0.0rem;
+    padding-right: 0.0rem;
+  }
+
+  .px-4 {
+    padding-left: 0.0rem;
+    padding-right: 0.0rem;
+  }
+  
+  .py-2 {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+  
+  .border {
+    border: 2px solid #ccc;
+  }
+
+  .border-b {
+    border-left: 5px  #000;
+    border-right: 5px  #000;
+  }
+  
+  .rounded-lg {
+    border-radius: 0.5rem;
+  }
+  
+  .bg-gray-400 {
+    background-color: #B984DF;
+  }
+  
+  .bg-red-400 {
+    background-color: #f56565;
+  }
+  
+  .text-white {
+    color: #fff;
+  }
+  
+  .bg-green{
+    background-color:#60fa13;
+  }
